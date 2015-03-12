@@ -1,0 +1,10 @@
+The diff between the files is really helpful and if I were the guy who wrote the file I would have spotted the diff or error more easily.
+If I want to see my progress over the course of the project or If I had a different requirement for some other project but the strat off was same.
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+Ans: May be I forget is the cons. More control may be pros
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Ans:As a project it makes more sense to save all files together but in google docs we really dont do any programming stuff and there is not much relation between two or more files
+How can you use the commands git log and git diff to view the history of files?
+Ans I had a little problem using git diff i.e what to paste as first id and also viewing the ids in general which name belongs to which id like is it the top one or the bottom one
+How might using version control make you more confident to make changes that could break something?
+Ans:I could be open to make changes more freely
