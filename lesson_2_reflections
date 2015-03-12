@@ -1,0 +1,10 @@
+Q:What happens when you initialize a repository? Why do you need to do it?
+A:when I intialize a repository a .git file is created which contains meta data about my files and their commits if any are made.
+Q:How is the staging area different from the working directory and the repository? What value do you think it offers?
+A:staging area is intermediate to working and repository it will be a temporary holding place for files to be comitted
+Q:How can you use the staging area to make sure you have one commit per logical change?
+A:I can double check before committing by finding the diff between working directory and staged area
+Q:What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A:branches will be helpful if two or more friends want to implement their own versions or If I want to try out new things and have a safe version on master
+Q:How do the diagrams help you visualize the branch structure?
+A:I can see what are commits in different brances
