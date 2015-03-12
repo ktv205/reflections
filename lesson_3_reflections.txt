@@ -1,0 +1,2 @@
+Q:When would you want to use a remote repository rather than keeping all your work local?
+A:If I want to share my work with others or if I want to make sure my files are available from anywhere and also it will be helful for my job interviews where I can share my github account
